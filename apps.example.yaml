@@ -1,0 +1,9 @@
+goodnightt:
+  module: Goodnight
+  class: Goodnight
+  light_ids: light.osramlightbedroom,light.osramlightstrip02
+  switch_id: round02
+  switch_single_click_event_code: 1002
+  switch_double_click_event_code: 1004
+  durationInSeconds: 600 # 10 min (default 120 - 2min)
+  start_brightness: 254

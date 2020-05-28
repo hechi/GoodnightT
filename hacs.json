@@ -1,0 +1,5 @@
+{
+  "name": "Goodnight timer",
+  "render_readme": true,
+  "domains": ["switch", "light"]
+}
